@@ -3,7 +3,7 @@
     <top-bar></top-bar>
     <div class="container">
       <h1 class="title">Profile</h1>
-
+      Iat: token签发时间
       <div class="content">
         <ul>
           <li v-for="(v, k) in user" :key="k">
