@@ -18,3 +18,9 @@ jwt, vue, KOA, auth, cors, javascript, login, auth
 - 主页：展示token验证的信息，调用/custom
 - 登录退出：清空本地token存储
 - profie：展示登录用户信息
+
+## 截图
+
+<img src="images/login.png" alt="GitHub" title="login" width="500" border="1px"/>
+<img src="images/home.png" alt="GitHub" title="home" width="500"  border="1px"/>
+<img src="images/profile.png" alt="GitHub" title="profile" width="500"  border="1px"/>

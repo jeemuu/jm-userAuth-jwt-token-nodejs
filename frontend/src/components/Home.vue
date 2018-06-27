@@ -3,7 +3,7 @@
     <top-bar></top-bar>
 
     <div class="container">
-      <h1 class="title">Inicio</h1>
+      <h1 class="title">home</h1>
 
       <!--div class="content">
         <h2 class="subtitle">
