@@ -2,7 +2,7 @@
 frontend:  demo-auth-jwt-vue， server: JWT_KOA_auth
 
 ## keywords
-jwt, vue, KOA, auth, cors, javascript, nodejs
+jwt, vue, KOA, auth, cors, javascript, login, auth
 
 ## 概要
 我将github上的两个独立工程：demo-auth-jwt-vue与JWT_KOA_auth调试组合在了一起，
