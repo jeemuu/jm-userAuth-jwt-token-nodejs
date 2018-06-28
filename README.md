@@ -5,7 +5,7 @@ frontend:  demo-auth-jwt-vue， server: JWT_KOA_auth
 jwt, vue, KOA, auth, cors, javascript, login, auth
 
 ## 概要
-我将github上的两个独立工程：demo-auth-jwt-vue与JWT_KOA_auth调试组合在了一起，
+我将github上的两个独立工程：demo-auth-jwt-vue与koa-jwt-auth调试组合在了一起，
 作为jwt-demo的前端与后端服务。通信接口修改，后端增加了cors跨域模块引用。
 
 ## 服务端，三个API
