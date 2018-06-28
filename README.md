@@ -17,7 +17,7 @@ jwt, vue, KOA, auth, cors, javascript, login, auth
 - 登录界面，调用/login
 - 主页：展示token验证的信息，调用/custom
 - 登录退出：清空本地token存储
-- profie：展示登录用户信息
+- proflie：展示登录用户信息
 
 ## 截图
 
