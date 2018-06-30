@@ -1,5 +1,4 @@
 # jwt-demo
-frontend:  demo-auth-jwt-vue， server: JWT_KOA_auth
 
 ## keywords
 jwt, vue, KOA, auth, cors, javascript, login, auth
