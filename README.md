@@ -6,11 +6,15 @@ jwt, vue, KOA, auth, cors, javascript, login, auth
 ## 概要
 我将github上的两个独立工程：demo-auth-jwt-vue与koa-jwt-auth调试组合在了一起，
 作为jwt-demo的前端与后端服务。通信接口修改，后端增加了cors跨域模块引用。
+用户需要提前建, 前端还没支持建用户，用postman调用/user请求，才能建立
+技术要点：koa框架passport: local , jwt strategy
+ 
 
 ## 服务端，三个API
-- /login (登录：下发token)
-- /custom (验证token，返回用户信息)
-- /user (注册：前端没有界面，需要使用postman在mongodb数据库先增加一个用户数据)
+1. /user (注册：前端没有界面，需要使用postman在mongodb数据库先增加一个用户数据)
+2. /login (登录：下发token)
+3. /custom (验证token，返回用户信息)
+
 
 ## 前端，
 - 登录界面，调用/login
